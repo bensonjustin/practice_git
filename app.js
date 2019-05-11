@@ -1,4 +1,5 @@
 var day = 'friday';
 console.log(day);
-var food = 'oreo';
-console.log(food);
+
+var food = 'oreos';
+var drink = 'water';
